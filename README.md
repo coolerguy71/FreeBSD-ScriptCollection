@@ -7,3 +7,5 @@ git clone https://github.com/coolerguy71/FreeBSD-ScriptCollection.git
 ```
 
 Run ```./help``` regularly in all the directories to easily install!
+Use ```ls``` to see your available options!
+Make sure you give yourself permissions to execute scripts! ```chmod a+x ./whicheverscript.sh```
